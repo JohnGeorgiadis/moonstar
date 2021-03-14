@@ -5,11 +5,13 @@
   "description": "posts and comments about moonstar",
   "main": "index.js",
   "scripts": {
-    "start": "browser-sync start --server --files '**/*.html, **/*.css, **/**.js'"
+    "start": "browser-sync start --server --files '**/*.html, **/*.css, **/**.js'",
+    "cypress": "cypress open"
   },
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.14",
+    "cypress": "^6.6.0",
     "eslint": "^7.21.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.1.0",
