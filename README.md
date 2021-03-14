@@ -16,5 +16,5 @@ The project will then run on http://localhost:3000/
 3. A new window will appear, and you will be able to interact with the cypress gui.
 
 ### inspect the code of the project
-If you want jut to inspect the code then you can use github1s
+If you just want to inspect the code then you can use github1s
 https://github1s.com/JohnGeorgiadis/moonstar
